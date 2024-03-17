@@ -15,7 +15,7 @@
 
 ## What are some other possible tables and/or graphs that we could create, and what additional value would they provide?
 - Correlation between funding goal, pledged amount and outcome
-  -- With a correlation graph between funding goal, pledged amount and outcome, we would be able to review the impact campaign funding had on the outcome and determine if there is a threshold or target that could be identified for future campaigns.
+  - With a correlation graph between funding goal, pledged amount and outcome, we would be able to review the impact campaign funding had on the outcome and determine if there is a threshold or target that could be identified for future campaigns.
 - Campaign outcomes by country
   - This would have assisted with drawing conclusions about which location has the best success rate for crowdsourcing campaigns and parhaps where future crowdfunding campaigns should be held.
   - This could be represented in either a pie chart with total campaigns (country legend), a stacked bar chart with count of campaign outcome (country on x axis). 
