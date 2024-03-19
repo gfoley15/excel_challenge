@@ -27,11 +27,11 @@
   - Average doantions could also be reviewed year over year, month over month to analyze percent increase or decrease.
   - Average donations could also be reviewed by category to understand typical donation size per category.
 
-# Determine whether the mean or the median better summarizes the data
+## Determine whether the mean or the median better summarizes the data
 - The median best summarizes the data since it is less impacted by the extreme numbers of backers that come to light when calculating the mode.
 - In both successful and unsuccessful campaigns, the mean of backers is significantly higher than the median (851.15 vs 201, 585.62 vs 114.5, respectively). This is likely due to outliers / a high number of backers in a few campaigns, but does not best represent the central tendency of the dataset in which the majority number of backers is centered around the median (201 and 114.5)
 
-# Determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not?
+## Determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not?
 - The variance of successful campaigns is higher than variance of unssuccessful campaigns. The variance calcualtion is higher for successful campaigns vs unsuccessful campaigns - 1603373.732 vs 921574.6817 respectively.
 - There is more variability in the number of backers count for successful campaigns compared to unsuccessful campaigns.
 - This makes sense as successful campaigns would vary more as the campaign grows, gains popularity, causing more backer to participate. Unsuccessful campaigns would likely stop sooner and reach less audience, therefore having less backers and less variance.
